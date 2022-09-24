@@ -4,4 +4,4 @@ const obterCnh = (idade) => {
 
 module.exports = {
   obterCnh,
-};
+};    
